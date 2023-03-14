@@ -1,6 +1,8 @@
 # JobPreparation
 
 Desarrollador web full stack.
+Contacto: nicolas.iconicoff@gmail.com
+Linkedin: https://www.linkedin.com/in/iconicoff-nicolas-96a1b1a8/
 
 Mi objetivo es poder compartir ideas y puntos de partida (en cuestiones de código) para que los iniciantes puedan tener una guía/idea/ayuda.
 Mi intención es, con el transcurso del tiempo, ir subiendo material demostrando mi progreso y aportando ideas.
